@@ -1,0 +1,11 @@
+﻿  trackball.cpp
+  OpenGLDemo.cpp
+c:\robert\finalp\ipmas\ipmas\opengldemo.cpp(10): fatal error C1083: 无法打开包括文件: “opencv/highgui.h”: No such file or directory
+  minimal.cpp
+c:\robert\finalp\ipmas\ipmas\minimal.h(2): fatal error C1083: 无法打开包括文件: “opencv2/imgproc/imgproc.hpp”: No such file or directory
+  MA.cpp
+c:\robert\finalp\ipmas\ipmas\ma.h(2): fatal error C1083: 无法打开包括文件: “opencv2/imgproc/imgproc.hpp”: No such file or directory
+  LoadFileDlg.cpp
+  glm.cpp
+c:\robert\finalp\ipmas\ipmas\glm.h(12): fatal error C1083: 无法打开包括文件: “OpenGL/glut.h”: No such file or directory
+  正在生成代码...
