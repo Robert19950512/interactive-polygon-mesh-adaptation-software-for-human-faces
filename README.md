@@ -1,4 +1,4 @@
 # interactive-polygon-mesh-adaptation-software-for-human-faces
-final project for Long Fa
+Bachelor's final project for Long Fa
 
 Face recognition and photo based 3D face model adaptation have been a hot issue in the field of computer graphics, but 3D face modelling often requires multiple images of different angles as input parameters. The process of model reconstruction often takes a long time. My project uses only a single face photo as input, using Stasm face feature point search engine to extract landmarks on the face, and innovatively use the 2D image warping technology to modify an existing general face model, project the points in 3D model onto 2D matrix, and extract the corresponding feature points, based on triangle correspondences relationship between 2 pairs of feature points to get the new coordinates of each vertex in the model. My technology not only ensuring the quality of the model from the frontal view, but also greatly improves the speed of model reconstruction.
